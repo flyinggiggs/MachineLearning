@@ -1,3 +1,3 @@
-# MachineLearning
+# Machine Learning
 
-Solution for Machine Laernig course assignments.
+My solution for Machine Laernig course assignments.
